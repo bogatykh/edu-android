@@ -1,6 +1,9 @@
 
 language: android
 jdk: oraclejdk8
+licenses:
+    - 'android-sdk-license-.+'
+    - 'google-gdk-license-.+'
 android:
   components:
     # The BuildTools version used by your project
